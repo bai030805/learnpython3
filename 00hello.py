@@ -9,3 +9,5 @@ print(name)
 
 resolution = 1024 * 768
 print(resolution)
+
+
