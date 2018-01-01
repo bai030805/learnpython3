@@ -32,3 +32,10 @@ else:
 
 a = 100/3
 print(a)
+
+print('中文中文123rrr')
+
+ord('A')
+ord('中')
+test = chr(66)
+print(test)
